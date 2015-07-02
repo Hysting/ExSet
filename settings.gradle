@@ -1,1 +1,1 @@
-include ':app', ':Ex_ORMLite', ':Library', ':javalib'
+include ':app', ':Ex_ORMLite', ':Library', ':javalib', ':DebugDemo'

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DebugDemo/DebugDemo.iml" filepath="$PROJECT_DIR$/DebugDemo/DebugDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExSet.iml" filepath="$PROJECT_DIR$/ExSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ex_ORMLite/Ex_ORMLite.iml" filepath="$PROJECT_DIR$/Ex_ORMLite/Ex_ORMLite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Library/Library.iml" filepath="$PROJECT_DIR$/Library/Library.iml" />
